@@ -1,5 +1,4 @@
 ﻿using EjercicioHerencia;
-using System;
 
 class Program
 {
